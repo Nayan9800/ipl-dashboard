@@ -22,10 +22,7 @@ https://youtube.com/playlist?list=PLqq-6Pq4lTTa8V613TZhGq4o8hSgkMGQ0
 
 ## Technologies
 
-* Spring Boot
-* Spring Batch
-* Java Persistence API, Repositories and JPQL
-* HSQL DB
+* golang as backend
 * React JS
 * AWS BeanStalk
 
