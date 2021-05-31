@@ -1,3 +1,5 @@
+
+
 # Java Brains IPL Dashboard
 
 Browse your favorite IPL teams and access their past games details, wins and losses ratios - accessible by team and tournament year.
@@ -22,9 +24,8 @@ https://youtube.com/playlist?list=PLqq-6Pq4lTTa8V613TZhGq4o8hSgkMGQ0
 
 ## Technologies
 
-* golang as backend
+* golang 
 * React JS
-* AWS BeanStalk
 
 ## Data Set Used
 https://www.kaggle.com/patrickb1912/ipl-complete-dataset-20082020/metadata
